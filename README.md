@@ -1,3 +1,3 @@
-# slidev-ztwbpn
+# slidev-test
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slidev-ztwbpn)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slidev-test)
